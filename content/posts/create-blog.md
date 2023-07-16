@@ -108,7 +108,7 @@ Git 레포지토리는 총 2개 생성해주면 된다.
 
 `git submodule add -b main <repo 주소> public `
 
-#### 포스트 업로드
+### 포스트 업로드
 
 이후 포스트를 쓰고 `hugo -t <테마이름>`을 하면 public에 html 파일이 생성된다. 생성된 public 디렉토리에 들어가서 변경된 부분들을 commit 해주면 본인의 github page 주소에 반영이 된다.
 
