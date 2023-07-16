@@ -22,7 +22,7 @@ tags: ["블로그 제작기"]
 - 빌드 시 시간이 오래 걸린다. (이게 가장 큰 단점인듯)
 ```
 
-**Hugo {{< icon "check" >}}**
+**<mark>Hugo</mark> {{< icon "check" >}}**
 
 ```
 - Golang 기반
@@ -64,8 +64,7 @@ Git 레포지토리는 총 2개 생성해주면 된다.
 
 ### Hugo 블로그 프로젝트 생성
 
-원하는 프로젝트 이름으로 hugo 프로젝트를 생성한다
-hugo new site blog
+원하는 프로젝트 이름으로 hugo 프로젝트 `hugo new site blog`를 생성한다. 나의 경우에는 blog로 프로젝트 이름을 지정했다.
 
 ### Hugo 테마 적용
 
