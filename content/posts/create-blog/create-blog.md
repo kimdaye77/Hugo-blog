@@ -106,7 +106,7 @@ Git 레포지토리는 총 2개 생성해주면 된다.
 
 #### 2. 호스팅용 레포지토리와 연결
 
-`git submodule add -b main <repo 주소> public `
+`git submodule add -b main <repo 주소> public`
 
 ### 포스트 업로드
 
