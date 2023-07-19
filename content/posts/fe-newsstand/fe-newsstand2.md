@@ -8,7 +8,12 @@ tags: ["프론트엔드", "newsstand", "현대소프티어"]
 
 ## FE 뉴스스탠드 3주차
 
-참고 {{< icon "github" >}} [fe-newsstand #3](https://github.com/softeerbootcamp-2nd/fe-newsstand/pull/80)
+참고 {{< icon "github" >}}
+<br>
+[fe-newsstand #3](https://github.com/softeerbootcamp-2nd/fe-newsstand/pull/80)
+<br>
+[fe-newsstand 7.18](https://github.com/kimdaye77/fe-newsstand/pull/5)
+<br>
 
 ### Feature List
 
@@ -69,7 +74,7 @@ asyncRun(baseData, (idx) => console.log(idx));
 <br>
 <br>`var`는 **함수 level scope**, `let`은 **block level scope**이다.
 <br>따라서 `var`일 경우 참조값이 closure에 보관되어 있고 이 값은 for문을 7번 다 돈 후의 i이다. 즉 `asyncRun`의 지역변수 i (값은 7)를 참조한다.
-`let`의 경우네는 block level이기 때문에 각 for문 하나가 call stack에 쌓인다.
+`let`의 경우에는 block level이기 때문에 각 for문 하나가 call stack에 쌓인다.
 <br>
 ![사진 참고](https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--kRxN-sBc--%2Fc_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_500%2Cq_auto%2Cw_1000%2Fhttps%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2Fek7ji4zrimozpp2yzk0a.png)
 

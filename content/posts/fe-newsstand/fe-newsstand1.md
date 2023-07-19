@@ -8,7 +8,12 @@ tags: ["프론트엔드", "newsstand", "현대소프티어"]
 
 ## FE 뉴스스탠드 3주차
 
-참고 {{< icon "github" >}} [fe-newsstand #3](https://github.com/softeerbootcamp-2nd/fe-newsstand/pull/80)  
+참고 {{< icon "github" >}}
+<br>
+[fe-newsstand #3](https://github.com/softeerbootcamp-2nd/fe-newsstand/pull/80)
+<br>
+[fe-newsstand 7.17](https://github.com/kimdaye77/fe-newsstand/pull/4)
+<br>
 ~~3주차부터 블로그 시작하는 것이라 제목은 #1이다.~~
 
 ### 프로젝트 설명
