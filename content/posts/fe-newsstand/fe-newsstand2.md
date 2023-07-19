@@ -113,18 +113,18 @@ promise.then은 한 세트로 큐에 같이 들어간다. 또한 다른 큐에 �
 
 ```js
 // 예시 함수
-function exampleFunction(parameter) {
+const exampleFunction = (parameter) => {
   // 실행할 내용
-}
+};
 // 이벤트 리스너
-document.addEventListener("click", () => exampleFunction(parameter));
+document.addEventListener("click", exampleFunction(parameter));
 ```
 
 위의 경우, 가독성 좋게 아래와 같이 변경할 수 있다.
 
 ```js
 // 예시 함수
-const exampleFunction = (parameter) => {
+const exampleFunction = (parameter) => () => {
   // 실행할 내용
 };
 // 이벤트 리스너
