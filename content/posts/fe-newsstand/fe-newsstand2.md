@@ -109,7 +109,7 @@ myFirstPromise.then((successMessage) => {
 `promsie 실행 > then 실행(콜백함수 promise에 등록) > 비동기 완료시 resolve 메서드 실행 > 콜백함수 실행`
 
 then은 동기함수이다. resolve의 신호가 있어야 콜백을 실행한다.
-<br><mark>**fullfilled** = 비동기 처리 끝났으니 실행하면 된다는 뜻!</mark>  
+<br><mark>**fulfilled** = 비동기 처리 끝났으니 실행하면 된다는 뜻!</mark>  
 promise.then은 한 세트로 큐에 같이 들어간다. 또한 다른 큐에 쌓인 함수보다 우선순위가 높다.
 
 ### [번외] 화살표 함수
