@@ -85,14 +85,6 @@ js => intersectionObserver
 
 **레이아웃 시프트**
 이미지 로딩에 시간이 걸리면서 레이아웃이 이동되는 현상이다. 레이아웃 시프트는 placeholder 처리를 통해 해결할 수 있다.
-image sprite 이미지 에셋들을 모아서 한번에 불러오기 next nuxtImage cloudinary
-(프론트보다는 백엔드에서 처리) 로딩 시간 연관=> js 파일 이미지(무거움) next.js는
-위의 이미지 최적화 관련된 기능들을 다 제공. ### 마치며 #### 코드 리뷰 회고 -
-이벤트 핸들러는 무조건 분리하기 - classList.remove, classList.add 안하고 =으로
-변경할 수도 있다. 단, 싹 다 바뀌기 때문에 주의. - await은 blocking 되기 때문에
-관련 없는 것들은 동작되게 위로 옮기기 **store** 상태 정의, 상태를 변경시켜주는
-메소드가 있어야 한다. - subscribe 메소드: store 객체를 구독한다. 메소드가 없으면
-상위 객체로 찾는다. => prototype을 가지고 동작하도록...
 
 #### Image sprite
 
