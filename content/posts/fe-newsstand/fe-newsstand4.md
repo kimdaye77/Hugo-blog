@@ -100,19 +100,18 @@ console.log(obj.b);
 export const ICON_IMG_PATH = "../assets/icons/";
 export const DATA_PATH = "../data/";
 Object.freeze({
-DATE_UPDATE_TIME,
-RECENT_NEWS_CNT,
-ROLLING_WAIT_TIME,
-ROLLING_DIFF_TIME,
-FIRST_PAGE_NUM,
-LAST_PAGE_NUM,
-PRESS_CNT,
-SNACKBAR_WAIT_TIME,
-PRESS_LOGO_IMG_PATH,
-ICON_IMG_PATH,
+    DATE_UPDATE_TIME,
+    RECENT_NEWS_CNT,
+    ROLLING_WAIT_TIME,
+    ROLLING_DIFF_TIME,
+    FIRST_PAGE_NUM,
+    LAST_PAGE_NUM,
+    PRESS_CNT,
+    SNACKBAR_WAIT_TIME,
+    PRESS_LOGO_IMG_PATH,
+    ICON_IMG_PATH,
 });
 {{</highlight>}}
-
 ```
 
 ### 마치며
