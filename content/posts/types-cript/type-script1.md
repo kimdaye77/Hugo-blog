@@ -67,11 +67,11 @@ https://choonse.com/2022/01/14/605/
 
 - typescript에서 reactjs는 `currentTarget` 사용을 택했다.
 
-#### ES6 문법
+### ES6 문법
 
 https://nomadcoders.co/react-masterclass/lectures/3336 -몰랐던 신기한 es6 문법
 
-```js
+```ts
 const {
   currentTarget: { value },
 } = event;
@@ -82,7 +82,7 @@ event안 curentTarget안에 value의 값을 기존 이름 그대로 value 라는
 <br>왜 사용할까?
 <br>currentTarget안에서 value, tagName, width, id 등 **여러 개** 를 가져오고 싶을 때 장점이 있다.
 
-```js
+```ts
 # 기존 문법
 const value = event.currentTarget.value;
 const tagName = event.currentTarget.tagName;
@@ -92,7 +92,7 @@ const id = event.currentTarget.id;
 
 이거를 이렇게 바꿔 쓸 수 있다.
 
-```js
+```ts
 # ES6 문법
 const {
 currentTarget: {value, tagName, width, id}
