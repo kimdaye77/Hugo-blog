@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/kimdaye77/kimdaye77.github.io.git
+	branch = main
+[submodule "pub"]
+	path = pub
+	url = https://github.com/kimdaye77/kimdaye77.github.io.git
+	branch = main
