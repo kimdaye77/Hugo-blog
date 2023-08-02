@@ -37,6 +37,49 @@ Select-box // 옵션 선택 가능
 
 위와 같이 많은 기능을 지원해준다.
 
+#### 실제 사용 예시
+
+```tsx
+const PriceBar = styled.input.attrs((props) => ({
+  type: props.type,
+  min: props.min,
+  max: props.max,
+  value: props.value,
+  onChange: props.onChange,
+}))`
+  -webkit-appearance: none;
+  width: 330px;
+  height: 6px;
+  border-radius: 10px;
+
+  background: ${(props) => props.theme.color.white};
+  outline: none;
+
+  /* 슬라이더 배경 색상 */
+  &::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 100%;
+    background: ${(props) => props.theme.color.primaryColor800};
+    border-radius: 10px;
+  }
+  /* 슬라이더 핸들 스타일 */
+  &::-webkit-slider-thumb {
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    background: ${(props) => props.theme.color.primaryColor400};
+    border-radius: 50%;
+    cursor: pointer;
+    border: 1px solid #fff;
+    margin-top: -8px;
+  }
+`;
+```
+
+![예시 사진1](img/cartag2-1.png)
+아직 커스텀은 미완이다. 하지만 드래그에 따라 값이 변하도록 `onChange` 핸들러는 구현 완료했다.<br>
+위의 그림과 같이 슬라이드로 값을 변경할 수 있다.
+
 ### useId
 
 `useId`는 리액트 훅 중 하나이다. 이름에서 알다싶이 고유한 `id`를 자동으로 생성해주는 기능을 한다.
