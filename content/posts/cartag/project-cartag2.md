@@ -2,7 +2,7 @@
 title: "[Project] Cartag 프로젝트 #2"
 date: 2023-08-02T21:28:50+09:00
 draft: false
-slug: "프로젝트"
+slug: "프로젝트2"
 tags: ["타입스크립트", "리액트", "프로젝트"]
 ---
 
