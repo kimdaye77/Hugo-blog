@@ -4,7 +4,6 @@ date: 2023-07-15T20:36:30+09:00
 draft: false
 slug: "create-blog"
 tags: ["블로그 제작기"]
-showComments: true
 ---
 
 ## Hugo와 Github page를 이용한 블로그 제작

@@ -4,7 +4,6 @@ date: 2023-08-03T18:49:50+09:00
 draft: false
 slug: "프로젝트3"
 tags: ["타입스크립트", "리액트", "프로젝트"]
-showComments: true
 ---
 
 ## Cartag 프로젝트 #3
