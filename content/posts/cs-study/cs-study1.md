@@ -1,6 +1,6 @@
 ---
 title: "[CS] CS 공부 #1"
-date: 2023-08-04T22:19:41+09:00
+date: 2023-08-05T07:50+09:00
 draft: false
 slug: "cs-study1"
 tags: ["CS", "면접대비"]
