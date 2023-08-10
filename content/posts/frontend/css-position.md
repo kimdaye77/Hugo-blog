@@ -2,7 +2,7 @@
 title: "[FE] CSS-position 속성"
 date: 2023-08-09T20:47:34+09:00
 draft: false
-slug: "css"
+slug: "css-position"
 tags: ["프론트엔드"]
 ---
 
