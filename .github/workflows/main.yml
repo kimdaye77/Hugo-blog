@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          token: ${{ secrets.token }}
+          token: ${{ secrets.TOKEN }}
           submodules: recursive
 
       - name: copy config.toml
@@ -34,7 +34,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: ${{ secrets.TOKEN }}
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: kimdaye77/kimdaye77.github.io
           publish_branch: gh-pages
           publish_dir: ./public
