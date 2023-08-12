@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.GIT_TOKEN }}
           submodules: recursive
 
       - name: copy config.toml
