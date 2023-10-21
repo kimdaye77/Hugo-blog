@@ -1,7 +1,7 @@
 ---
 title: "[우테코 프리코스] 숫자 야구 게임 #1"
 date: 2023-10-21T14:22:48+09:00
-draft: true
+draft: false
 slug: "precourse1"
 tags: ["우테코", "프리코스", "숫자야구"]
 ---
