@@ -111,3 +111,8 @@ test("예외 테스트", async () => {
 ✔️ **최종 결과** 💯<br>
 ![결과](img/precourse1-3.png)
 이제 테스트는 모두 통과해서 리팩토링 과정만 남았다. 현재, 메시지 프롬프트들을 `constants.js/messages.js`로 분리하는 것까지 진행한 상태이다.
+
+## 이후 할 것
+
+- `startGame` 함수 이름 수정
+- `this.gameState`의 `flag` 값 상수 처리
