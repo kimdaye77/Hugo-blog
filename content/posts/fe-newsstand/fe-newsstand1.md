@@ -2,6 +2,7 @@
 title: "[현대 소프티어] FE 뉴스스탠드 #1"
 date: 2023-07-17T18:47:22+09:00
 draft: false
+categories: "현대 소프티어"
 slug: "fe-newsstand1"
 tags: ["프론트엔드", "newsstand", "현대소프티어"]
 ---

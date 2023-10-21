@@ -2,6 +2,7 @@
 title: "[FE] Context API"
 date: 2023-08-11T20:30:14+09:00
 draft: false
+categories: "프론트엔드"
 slug: "context-api"
 tags: ["프론트엔드", "리액트"]
 ---

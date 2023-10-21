@@ -2,6 +2,7 @@
 title: "[FE] 리액트 훅 - useRef"
 date: 2023-08-10T20:29:13+09:00
 draft: false
+categories: "프론트엔드"
 slug: "useRef"
 tags: ["프론트엔드", "리액트훅"]
 ---

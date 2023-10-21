@@ -2,6 +2,7 @@
 title: "명탐정 코난: 흑철의 어영에서의 AI 기술"
 date: 2023-07-22T22:06:29+09:00
 draft: false
+categories: "영화 속 공부"
 slug: "study-in-movie1"
 tags: ["영화 속 공부"]
 showComments: true

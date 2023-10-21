@@ -2,6 +2,7 @@
 title: "소프트웨어 개발 방법론"
 date: 2023-07-31T21:03:25+09:00
 draft: false
+categories: "소프트웨어공학"
 slug: "software-engineering"
 tags: ["소프트웨어공학", "개발방법론"]
 showComments: true

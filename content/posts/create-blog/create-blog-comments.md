@@ -2,6 +2,7 @@
 title: "Hugo 블로그 제작기 - 댓글편"
 date: 2023-08-04T20:06:36+09:00
 draft: false
+categories: "블로그 제작"
 slug: "create-blog-comments"
 tags: ["블로그 제작기"]
 ---

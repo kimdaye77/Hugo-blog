@@ -2,6 +2,7 @@
 title: "[FE] CSS 라이브러리와 프레임워크"
 date: 2023-08-06T22:13:26+09:00
 draft: false
+categories: "프론트엔드"
 slug: "css"
 tags: ["프론트엔드"]
 ---

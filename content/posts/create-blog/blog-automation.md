@@ -2,6 +2,7 @@
 title: "Hugo 블로그 제작기 - 자동화"
 date: 2023-08-12T18:27:13+09:00
 draft: false
+categories: "블로그 제작"
 slug: "create-blog-automation"
 tags: ["블로그 제작기"]
 ---

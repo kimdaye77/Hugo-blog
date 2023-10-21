@@ -2,6 +2,7 @@
 title: "[Project] Cartag 프로젝트 #5"
 date: 2023-08-14T20:56:01+09:00
 draft: false
+categories: "현대 소프티어"
 slug: "프로젝트5"
 tags: ["타입스크립트", "리액트", "프로젝트"]
 ---

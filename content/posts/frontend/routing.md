@@ -2,6 +2,7 @@
 title: "[FE] 라우팅"
 date: 2023-08-08T21:28:59+09:00
 draft: false
+categories: "프론트엔드"
 slug: "routing"
 tags: ["프론트엔드"]
 ---

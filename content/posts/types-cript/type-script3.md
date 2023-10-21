@@ -2,6 +2,7 @@
 title: "[TS] Type script 공부 #3"
 date: 2023-07-29T22:00:45+09:00
 draft: false
+categories: "타입스크립트"
 slug: "type-script3"
 tags: ["타입스크립트", "리액트", "노마드코더"]
 ---
