@@ -117,3 +117,6 @@ test("예외 테스트", async () => {
 
 - `startGame` 함수 이름 수정
 - `this.gameState`의 `flag` 값 상수 처리
+
+👇🏻 아래는 PR 링크이다. 👇🏻<br>
+[PR](https://github.com/woowacourse-precourse/javascript-baseball-6/pull/119)
