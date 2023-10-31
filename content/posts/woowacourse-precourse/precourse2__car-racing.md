@@ -110,3 +110,9 @@ indent(인덴트, 들여쓰기) depth를 3이 넘지 않도록 구현한다. 2�
 ![결과](img/precourse2-1.png)
 이번엔 테스트가 `ApplicationTest.js`와 `StringTest.js`로 2개였다.
 결과는 모두 통과!!
+
+👇🏻 아래는 PR 링크이다. 👇🏻<br>
+[PR](https://github.com/woowacourse-precourse/javascript-racingcar-6/pull/60)
+
+![결과](img/precourse2-2.png)
+pr링크를 제출하면 위와 같이 예제 테스트가 모두 통과하는 것을 확인할 수 있다.
