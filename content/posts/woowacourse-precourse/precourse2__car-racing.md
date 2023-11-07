@@ -1,6 +1,6 @@
 ---
 title: "[우테코 프리코스] 자동차 경주 #2"
-date: 2023-10-30T20:38:48+09:00
+date: 2023-10-30T20:38:55+09:00
 draft: false
 categories: "우테코 프리코스"
 slug: "precourse2"

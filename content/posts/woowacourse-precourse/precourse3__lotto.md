@@ -1,6 +1,6 @@
 ---
 title: "[우테코 프리코스] 로또 #3"
-date: 2023-11-7T19:24:11+09:00
+date: 2023-11-07T19:24:11+09:00
 draft: false
 categories: "우테코 프리코스"
 slug: "precourse3"
