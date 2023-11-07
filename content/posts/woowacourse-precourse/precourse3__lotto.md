@@ -1,10 +1,10 @@
 ---
-title: "[우테코 프리코스] 자동차 경주 #3"
+title: "[우테코 프리코스] 로또 #3"
 date: 2023-11-7T19:24:11+09:00
 draft: false
 categories: "우테코 프리코스"
-slug: "precourse2"
-tags: ["우테코", "프리코스", "자동차경주"]
+slug: "precourse3"
+tags: ["우테코", "프리코스", "로또"]
 ---
 
 ## 우테코 프리코스 3주차
