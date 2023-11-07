@@ -33,7 +33,7 @@ fingerprintAlgorithm = "sha256"
   recentLimit = 5
 
 [article]
-  showDate = false
+  showDate = true
   showDateUpdated = true
   showAuthor = true
   showBreadcrumbs = false
