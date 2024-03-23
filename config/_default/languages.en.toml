@@ -10,12 +10,12 @@ title = "Dayo's Blog"
   displayName = "EN"
   rtl = false
 
-  dateFormat = "2 January 2006"
+#  dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
   # description = "코딩하는 다요"
 
-[author]
+[params.author.name]
   name = "코딩하는 다요"
   image = "img/author.png"
   headline = "오늘도 뚠뚠 코딩하는 다요시 🐜"
